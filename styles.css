@@ -1,0 +1,51 @@
+.cuadro {
+	display: inline-block;
+	width: 500px;
+	height: 350px;
+	margin-left: 300px;
+	border: 1px solid black;
+}
+.otro {
+	display: flex;
+}
+
+.logo {
+	display: block;
+	float: right;
+	margin-left: 180px;
+	margin-top: 25px;
+}
+
+.titulo {
+	float: left;
+	margin-left: 20px;
+	margin-right: 50px;
+	margin-top: 10px;
+}
+
+.contenido {
+	float: left;
+	margin-right: 80px;
+	margin-left: 20px;
+}
+
+.medio {
+	display: inline-block;
+}
+
+.llenar {
+	float: right;
+	margin-top: 20px;
+	margin-left: 4px;
+}
+
+.boton {
+	margin-top: 20px;
+	margin-left: 175px;
+}
+
+input {
+	border-top: gray;
+	border-right: gray;
+	border-left: gray;
+}
